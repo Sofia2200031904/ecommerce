@@ -5,15 +5,6 @@
 👉 Live Demo: [sofia-ecommerce-webiste-df6543.netlify.app](https://sofia-ecommerce-webiste-df6543.netlify.app)
 
 
-
- 📸 Screenshots
-> Add your screenshots in a `/screenshots` folder and link them here.
-
-<p align="center">
-  <img src=""C:\Users\Challa_Smile _Sofia\Downloads\anon-ecommerce-website-master\anon-ecommerce-website-master\website-demo-image\desktop.png"" width="600" alt="Homepage Screenshot"/>
-</p>
-
-
  ✨ Features
 - 🌐 Multi-language support (EN / ES / FR)  
 - 💲 Currency switcher (USD / EUR / INR)  
