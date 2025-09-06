@@ -10,7 +10,7 @@
 > Add your screenshots in a `/screenshots` folder and link them here.
 
 <p align="center">
-  <img src="screenshots/homepage.png" width="600" alt="Homepage Screenshot"/>
+  <img src=""C:\Users\Challa_Smile _Sofia\Downloads\anon-ecommerce-website-master\anon-ecommerce-website-master\website-demo-image\desktop.png"" width="600" alt="Homepage Screenshot"/>
 </p>
 
 
